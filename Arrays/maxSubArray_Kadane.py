@@ -1,3 +1,4 @@
+#https://leetcode.com/problems/maximum-subarray/description/
 def maxSubarray(nums):
   #Brute force method --> O(n^2)
   length = len(nums)

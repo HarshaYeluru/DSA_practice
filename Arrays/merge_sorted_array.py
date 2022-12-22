@@ -1,3 +1,4 @@
+#https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12309362#overview
 def mergeSortedArray(arr1, arr2):
   if len(arr1) == 0 or len(arr2) == 0:
     print(arr1 + arr2)
