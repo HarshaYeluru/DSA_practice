@@ -1,5 +1,6 @@
 nums = [2,5,1,2,3,5,1,2,4]
 #nums = [1,2,3,4,5]
+#nums = [1]
 def recurringCharacter(nums):
   # Brute Force O(n^2)
   for ptr1 in range(len(nums)):
